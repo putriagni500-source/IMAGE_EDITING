@@ -1,0 +1,6 @@
+streamlit
+numpy
+opencv-phytjon-headless
+pillow
+scikit_learn
+matplotlib
