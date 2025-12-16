@@ -1,6 +1,5 @@
 streamlit
-numpy
-opencv-phytjon-headless
-pillow
-scikit_learn
-matplotlib
+numpy>=2.1.0
+opencv-python-headless
+Pillow
+
